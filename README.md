@@ -42,9 +42,11 @@ UCI Google Slides: https://docs.google.com/presentation/d/1NV6X_2KX8jxVQjfccKZRr
     * Install: https://jupyter.org/install 
         * Code blocks vs comments vs markdown
             * Cheatsheet: http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655 
-2. Make GitHub account & Bio199 repository. 
-    * You will share your notebooks with me through that GitHub repository:
-        * https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/ 
+2. Make GitHub account
+    * Make a Bio-199 repository. 
+        * Send me a link to it        
+        * You will share your notebooks with me through that GitHub repository:
+            * https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/ 
 3. Start the Scanpy Tutorials (clustering & visualization, trajectory inference)
     * Install Scanpy and other packages that the tutorial requires
         * https://scanpy.readthedocs.io/en/stable/installation.html 

@@ -1,6 +1,8 @@
 # Bio-199: Fall 2022
 ## Bio-199 & Lab Rules
 
+UCI Google Slides: https://docs.google.com/presentation/d/1NV6X_2KX8jxVQjfccKZRrTIb2vQnZ5DoKHVNLprOygU/edit?usp=sharing
+
 * Independent research project, achievable in 1 quarter (flexible)
 * Enrollment packet (A?)
 * Weekly progress check ins (Tell me your availability for 1 hour zoom or in-person)

@@ -1,6 +1,6 @@
 # Bio-199: Fall 2022
 ## Bio-199 & Lab Rules
-#### For [Julie](https://github.com/juliethecao/bio-199) and Jonathan
+#### For [Julie](https://github.com/juliethecao/bio-199) and [Jonathan](https://github.com/jonathanvigil00/Bio-199)
 
 UCI Google Slides: https://docs.google.com/presentation/d/1NV6X_2KX8jxVQjfccKZRrTIb2vQnZ5DoKHVNLprOygU/edit?usp=sharing
 

@@ -21,8 +21,7 @@
         * Which genes and/or regulatory regions are involved in metastasis?
 
 ## Project Overview: RNA Velocity
-##### RNA velocity is a pseudotime trajectory analysis approach to uncover cellular dynamical processes such as differentiation. 
-##### We will apply this method to a tumor dataset with the goals of identifiying the premalignant cells wich give rise to tumors, 
+##### RNA velocity is a pseudotime trajectory analysis approach to uncover cellular dynamical processes such as differentiation. We will apply this method to a tumor dataset with the goals of identifiying the premalignant cells wich give rise to tumors, 
 the tumor cell subpopulation which differentiates into the other tumor cell subpopulations including premetastatic ones. 
 
 * Original publication: https://www.nature.com/articles/s41586-018-0414-6

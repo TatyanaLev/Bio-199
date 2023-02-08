@@ -1,7 +1,7 @@
 # Bio-199: Winter 2023
 ## RNA Velocity Project
-#### Taught by Tatyana Lev
-#### Undergraduate Student account: [Julie](https://github.com/juliethecao/bio-199) 
+#### Taught by: [Tatyana Lev](https://github.com/TatyanaLev)
+#### Undergraduate Student: [Julie](https://github.com/juliethecao/bio-199) 
 
 ## About Bio 199 
 
